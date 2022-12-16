@@ -1,3 +1,3 @@
 # OOP
 ## Object Oiented Programing Course Project
-### 2022
+### Gor Vigen and Hayk work
